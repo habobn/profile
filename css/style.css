@@ -634,6 +634,12 @@ section.resume-section .resume-item .resume-date {
     left: -14%;
 }
 
+#award-box .award .award-content .sub {
+    margin: 0;
+    font-size: 13px;
+
+}
+
 @media only screen and (max-width: 767px) {
     #award-box {
         padding-left: 20px;
